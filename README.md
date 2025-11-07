@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/drishtisinghdu-prog/DSA/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/drishtisinghdu-prog/DSA/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
