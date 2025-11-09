@@ -20,6 +20,7 @@
 | [0007-reverse-integer](https://github.com/drishtisinghdu-prog/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/drishtisinghdu-prog/DSA/tree/master/0009-palindrome-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/drishtisinghdu-prog/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2238-a-number-after-a-double-reversal](https://github.com/drishtisinghdu-prog/DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/drishtisinghdu-prog/DSA/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
 |  |
