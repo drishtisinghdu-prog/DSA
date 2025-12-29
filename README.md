@@ -6,14 +6,17 @@
 | ------- |
 | [0027-remove-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/drishtisinghdu-prog/DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/drishtisinghdu-prog/DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +29,12 @@
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/drishtisinghdu-prog/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
