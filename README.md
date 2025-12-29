@@ -7,16 +7,19 @@
 | [0027-remove-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/drishtisinghdu-prog/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/drishtisinghdu-prog/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -33,8 +36,10 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
