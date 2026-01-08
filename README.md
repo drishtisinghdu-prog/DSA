@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/drishtisinghdu-prog/DSA/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/drishtisinghdu-prog/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/drishtisinghdu-prog/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -41,13 +42,23 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/drishtisinghdu-prog/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/drishtisinghdu-prog/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/drishtisinghdu-prog/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/drishtisinghdu-prog/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/drishtisinghdu-prog/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
